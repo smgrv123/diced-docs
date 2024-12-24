@@ -56,27 +56,32 @@ Freshana provides:
 ---
 
 ## Business Model
-### Pricing
-- Average selling price per SKU: ₹200–250.  
+### Direct to Consumer
+- The product would be served to the user through an app, that will help collect user data and also server future additions to the entire product line like subscriptions 
 
-### Models
-1. Subscription-based orders.  
-2. Individual orders.  
+### Aggregator Platforms
+- Will also be listed on aggregator platforms to increase the top of the funnel
+- The products listed will be price adjusted and only limited products would be available on aggregators and a wider variety of products would be present in the app
 
-### Distribution
-- Listed on aggregator platforms with price adjustments to cover aggregator costs.  
-- Direct platform sales with **15-minute delivery** and conversion offers.  
+---
 
+## Cost Structure
+- cost that we would bear
+	- production cost
+		- raw material procurement
+		- logistics
+		- preparation and delivery
+	- operating cost
+		- marketing
+		- personnel 
+		- tech
 ---
 
 ## Go-To-Market Strategy (GTM)
 ### Marketing
 - Organic social media campaigns.  
 - Influencer marketing.  
-
-### Distribution Channels
-1. Aggregators  
-2. Direct app sales  
+- Innovate offline marketing campaigns 
 
 ### Initial Focus
 - Launch in **Bangalore**, with kitchens in:  
@@ -93,12 +98,10 @@ Competitors include:
 - Eatfit  
 - Parafit  
 - Food Darzee  
-
----
-
-## Financial Projections
-_To be discussed further._  
-
+- Lo! Foods
+- Activeat 
+- FitMeals
+ 
 ---
 
 ## Team

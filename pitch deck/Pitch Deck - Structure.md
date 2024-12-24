@@ -48,6 +48,11 @@
   - Subscription model overview including potential margins.
   - Revenue streams: Direct sales, subscriptions, partnerships.
 
+## Cost Structure (Anticipated Costs and expenses)
+- **use case**: explaining the breakdown of all the major costs 
+- **Content**
+	- Pie chart containing all the major costs that are going to be incured
+
 ### Go-to-Market Strategy
 
 - **Use Case:** Outline how Freshana plans to reach and acquire customers.
@@ -60,8 +65,9 @@
 
 - **Use Case:** Position Freshana against competitors in the market.
 - **Content:**
-  - Comparison table highlighting advantages in speed, nutrition transparency, and customization.
-  - Brief analysis of competing solutions, their weaknesses, and unique selling propositions.
+	- Comparison table highlighting advantages in speed, nutrition transparency, and customization.
+	- Brief analysis of competing solutions, their weaknesses, and unique selling propositions.
+	- create a chart to show the market being captured by them and the space that we are planning to occupy
 
 ### Financial Projections
 
