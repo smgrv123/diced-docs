@@ -1,5 +1,3 @@
-# Freshana Pitch Deck
-
 ## Cover Slide
 **Brand Name:** Freshana  
 **Tagline:** Toh kalse gharpe khana, Freshana  
@@ -19,8 +17,7 @@
 
 ## Solution Overview
 Freshana offers a **convenient, healthy, and efficient solution** for fitness enthusiasts and mindful eaters:  
-- Food perceived as **clean and customized**.  
-- Leverages the **"IKEA Effect"** by enabling user participation in meal preparation.  
+- By providing meticulously prepared meal kits complete with raw materials and easy-to-follow recipes, we aim to simplify meal preparation while aligning with our customers' dietary preferences and fitness goals This will also let is leverages the **"IKEA Effect"** by enabling user participation in meal preparation.  [[Freshana#^423234]]]
 
 ---
 
