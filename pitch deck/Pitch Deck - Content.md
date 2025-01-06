@@ -7,17 +7,29 @@
 ## Problem Statement
 - **Urban Middle-Class Lifestyle:**
 	- Fast-paced lifestyle in a metropolitan city leaves little time for nutritious meal preparation.  
+	- Most house-helps/cooks are not skilled enough to prepare meals to fulfil the macros requirements
 - **Current Alternatives:**
-	- Reliance on quick meals or snacks.
-	- Even "healthy" brands lack the perception of home-cooked quality.  
+	- Heavy reliance on ordering food from delivery apps.
+	- Even "healthy" brands lacking the perception of home-cooked food.  
 - **Key Concern:**  
 	- Uncertainty about the quality and cleanliness of consumed meals.
 
+### Zomato numbers ⬇️
+#### Food delivery
+
+![[Pasted image 20250106124355.png]] 
+![[Pasted image 20250106124451.png]]
+
+### Swiggy ⬇️
+![[Pasted image 20250106130056.png]]
+
+### Zepto Cafe ⬇️
+ The response has been phenomenal, with Zepto Cafe now achieving an (estimated) Annual Run Rate (ARR) GMV of Rs 160 crore with just 15 per cent of our expanding dark store network with proven unit economics.
 ---
 
 ## Solution Overview
-Freshana offers a **convenient, healthy, and efficient solution** for fitness enthusiasts and mindful eaters:  
-- By providing meticulously prepared meal kits, complete with raw materials and easy-to-follow recipes, delivered within 15-20 minutes, we aim to simplify meal preparation. Our service aligns with customers' dietary preferences and fitness goals while leveraging the **"IKEA Effect"** by enabling user participation in the cooking process.  [[Freshana#^423234]]]
+Diced offers a **convenient, healthy, and efficient solution** for fitness enthusiasts and mindful eaters:  
+- By providing meticulously prepared meal kits, complete with raw materials and easy-to-follow recipes, delivered within 15-20 minutes, we aim to simplify meal preparation. Our service aligns with customers' dietary preferences and fitness goals while leveraging the **"IKEA Effect"** by enabling user participation in the cooking process.  [[Diced#^423234]]]
 
 ---
 

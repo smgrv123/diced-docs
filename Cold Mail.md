@@ -7,7 +7,7 @@ Hi [investor/vc]
 I'm [Sumrit/Rishabh], the co-founder of Diced, a D2C startup that provides healthy meal kits making home cooking fast and simple. We plan to start our operations in Bangalore. We believe our company would be a great fit in your portfolio because [... fill a few personalised details here for each vc].
 
 Here is the driving forces to work in this area
-%% need to add 5 points here
+%% need to add 6 points here
 - numbers for initial problem
 - total market + TAM 
 - growth rate of healthy marketing in india
