@@ -23,7 +23,7 @@ The Freshana initiative is designed to offer a convenient, healthy, and efficien
 
 ## Target Audience
 
-The primary consumers are health-conscious individuals who actively track their caloric intake and macros to optimize their fitness routines. This includes athletes, gym enthusiasts, and anyone pursuing a nutritious lifestyle.
+The primary consumers are health-conscious individuals who actively track their caloric intake and macros to optimize their fitness routines. This includes athletes, gym enthusiasts, and anyone pursuing a nutritious lifestyle. This also targets the individuals who have a very busy work life but still want to consume home made nutritious meals
 
 ## Business Model
 
@@ -106,7 +106,7 @@ The subscription model is simple, you give the user monetary incentives for the 
 ### Tech Side
 
 - Website with waitlist
-- App (RN) [user, kitchen, delivery]
+- App (RN) [user, kitchen, delivery]  [[App Screens]]
 - Database (mostly supabase pg with drizzle). [costing]
 - Google API keys [costing]
 - Google and Apple store accounts [costing]

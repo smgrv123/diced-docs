@@ -69,16 +69,6 @@
 	- Brief analysis of competing solutions, their weaknesses, and unique selling propositions.
 	- create a chart to show the market being captured by them and the space that we are planning to occupy
 
-### Financial Projections
-
-**Note:** Not sure if we can do this 
-
-- **Use Case:** Provide an overview of expected financial performance.
-- **Content:**
-  - Three to five-year financial growth forecast.
-  - Key metrics: revenue, profit margins, customer acquisition costs.
-  - Visuals: Graphs outlining revenue projections and growth rates.
-
 ### Team
 
 - **Use Case:** Introduce the team 
@@ -103,4 +93,3 @@
   - Recap the core value proposition and opportunities.
   - Call to action for investors to engage or ask questions.
   - Contact information for further inquiries or communications.
-```

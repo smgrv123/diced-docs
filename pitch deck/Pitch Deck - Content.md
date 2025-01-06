@@ -1,12 +1,12 @@
 ## Cover Slide
-**Brand Name:** Freshana  
-**Tagline:** Toh kalse gharpe khana, Freshana  
+**Brand Name:** Diced  
+**Tagline:** ***ISKA KYA KRNA HAI***
 
 ---
 
 ## Problem Statement
 - **Urban Middle-Class Lifestyle:**
-	- Fast-paced lifestyle leaves little time for nutritious meal preparation.  
+	- Fast-paced lifestyle in a metropolitan city leaves little time for nutritious meal preparation.  
 - **Current Alternatives:**
 	- Reliance on quick meals or snacks.
 	- Even "healthy" brands lack the perception of home-cooked quality.  
@@ -17,7 +17,7 @@
 
 ## Solution Overview
 Freshana offers a **convenient, healthy, and efficient solution** for fitness enthusiasts and mindful eaters:  
-- By providing meticulously prepared meal kits complete with raw materials and easy-to-follow recipes, we aim to simplify meal preparation while aligning with our customers' dietary preferences and fitness goals This will also let is leverages the **"IKEA Effect"** by enabling user participation in meal preparation.  [[Freshana#^423234]]]
+- By providing meticulously prepared meal kits, complete with raw materials and easy-to-follow recipes, delivered within 15-20 minutes, we aim to simplify meal preparation. Our service aligns with customers' dietary preferences and fitness goals while leveraging the **"IKEA Effect"** by enabling user participation in the cooking process.  [[Freshana#^423234]]]
 
 ---
 
@@ -40,7 +40,7 @@ Freshana offers a **convenient, healthy, and efficient solution** for fitness en
 ---
 
 ## Product Details
-Freshana provides:  
+Diced provides:  
 - **Meticulously prepared meal kits** with fresh ingredients.  
 - Easy-to-follow recipes tailored to:  
 	- Dietary preferences  
@@ -64,14 +64,14 @@ Freshana provides:
 
 ## Cost Structure
 - cost that we would bear
-	- production cost
-		- raw material procurement
-		- logistics
-		- preparation and delivery
-	- operating cost
-		- marketing
-		- personnel 
-		- tech
+	- production cost (50-55%)
+		- raw material procurement 
+		- logistics (40-45%)
+		- preparation and delivery (20-25%)
+	- operating cost (40-45% of the total expense incurred) 
+		- marketing (45-50%)
+		- personnel (30-35%)
+		- tech (25-30%)
 ---
 
 ## Go-To-Market Strategy (GTM)
@@ -91,13 +91,25 @@ Freshana provides:
 
 ## Competitive Landscape
 Competitors include:  
-- Freshmenu  
-- Eatfit  
-- Parafit  
-- Food Darzee  
-- Lo! Foods
-- Activeat 
-- FitMeals
+- healthy and slow
+	- Freshmenu  
+	- Eatfit  
+	- Parafit  ~
+	- Food Darzee  ~
+	- The Kenko Meal ~
+- unhealthy and slow
+	- zomato
+	- swiggy
+- unhealthy and fast
+	- zepto
+	- bistro
+	- swish
+
+**~ company with subscriptions model**
+
+
+*add a variety with various spectrums*
+![[Pasted image 20241225233846.png]]
  
 ---
 
@@ -107,7 +119,7 @@ _To be finalized._
 ---
 
 ## Funding Ask
-**$300,000 for 10% equity.**  
+**$300,000
 ### Breakdown:
 1. Hiring (Marketing, Business Development)  
 2. Hosting/Development  
@@ -116,6 +128,8 @@ _To be finalized._
 5. Office Space  
 6. Procurement  
 7. Runway for 1.5 years  
+
+~ Plan to raise another round in 1-1.5 years for further expansion and marketing
 
 ---
 
