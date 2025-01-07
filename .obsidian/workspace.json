@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6ce7b9a41f6bfc20",
+        "id": "3e777717f27550c9",
         "type": "tabs",
         "children": [
           {
-            "id": "8330d16f13c2ca48",
+            "id": "9c98b7c5f5deca8f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -73,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c75c482c34765c41",
@@ -158,23 +159,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03839bf9f82ddf4f",
+  "active": "9c98b7c5f5deca8f",
   "lastOpenFiles": [
+    "Cold Mail - Templates.md",
+    "calculations.md",
+    "Diced.md",
     "pitch deck/Pitch Deck - Content.md",
-    "assets/Pasted image 20250106130056.png",
-    "assets/Pasted image 20250106124451.png",
+    "Cold Mail.md",
+    "assets/zomato-fin-metrics.png",
+    "assets/distribution-graph.png",
+    "assets/zomato-operating-revenue.png",
+    "assets/swiggy-revenue.png",
     "assets/Pasted image 20250106124355.png",
     "assets/Pasted image 20250106124353 1.png",
-    "assets/Pasted image 20250106124353.png",
     "assets/Pasted image 20250106124330.png",
-    "Cold Mail.md",
     "Tech/App Screens.md",
-    "Diced.md",
     "SKUs.md",
-    "Cold Mail - Templates.md",
-    "Untitled.md",
     "pitch deck/Pitch Deck - Structure.md",
-    "assets/Pasted image 20241225233846.png",
     "assets/add-cart-state.png",
     "assets",
     "Screenshot 2024-12-23 at 11.35.44 PM.png",

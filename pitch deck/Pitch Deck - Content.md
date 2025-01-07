@@ -16,17 +16,17 @@
 
 ### Zomato numbers ⬇️
 #### Food delivery
+![[zomato-operating-revenue.png]]
 
-![[Pasted image 20250106124355.png]] 
-![[Pasted image 20250106124451.png]]
+![[zomato-fin-metrics.png]]
 
 ### Swiggy ⬇️
-![[Pasted image 20250106130056.png]]
+![[swiggy-revenue.png]]
 
 ### Zepto Cafe ⬇️
  The response has been phenomenal, with Zepto Cafe now achieving an (estimated) Annual Run Rate (ARR) GMV of Rs 160 crore with just 15 per cent of our expanding dark store network with proven unit economics.
----
 
+---
 ## Solution Overview
 Diced offers a **convenient, healthy, and efficient solution** for fitness enthusiasts and mindful eaters:  
 - By providing meticulously prepared meal kits, complete with raw materials and easy-to-follow recipes, delivered within 15-20 minutes, we aim to simplify meal preparation. Our service aligns with customers' dietary preferences and fitness goals while leveraging the **"IKEA Effect"** by enabling user participation in the cooking process.  [[Diced#^423234]]]
@@ -44,8 +44,8 @@ Diced offers a **convenient, healthy, and efficient solution** for fitness enthu
 ## Market Opportunities
 - **Healthy Food Market in India:**  
 	- Projected to reach **$30 billion by 2026**, growing at a **CAGR of 20%** (Source: India Unjunking | A USD 30 billion appetite for health food).  
-- **Target Market:**  
-	- **TAM (Total Addressable Market):** $470 million  
+- **Target Market:**  [[calculations#^94a8c6]]   ^3a02ad
+	- **TAM (Total Addressable Market):** $450 million  
 	- **SAM (Serviceable Available Market):** $50 million  
 	- Initial focus on major cities: **Delhi, Bangalore, Mumbai, Hyderabad, Pune, Chennai**  
 
@@ -58,7 +58,7 @@ Diced provides:
 	- Dietary preferences  
 	- Fitness goals  
 - Focus on:  
-	- Freshness  
+	- Freshly Sourced Ingredients
 	- Transparency  
 	- Quality  
 
@@ -121,7 +121,7 @@ Competitors include:
 
 
 *add a variety with various spectrums*
-![[Pasted image 20241225233846.png]]
+![[distribution-graph.png]]
  
 ---
 

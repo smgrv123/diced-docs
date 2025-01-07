@@ -14,6 +14,9 @@ Here is the driving forces to work in this area
 - competition and our unique solution
 - 2 more!!!
 %%
+- The **Total Addressable Market** is $470 million [[Pitch Deck - Content#^3a02ad]]
+- The healthy food market in india is projected to reach **$30 billion by 2026**, growing at a **CAGR of 20%** 
+- Wi
 
 Here
 
