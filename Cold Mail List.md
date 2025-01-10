@@ -40,3 +40,4 @@
 | FALSE     | kunal shah                   | angel    |
 | FALSE     | shashank metha               | angel    |
 | FALSE     | [sauce.vc](http://sauce.vc/) | vc       |
+| FALSE     | Avendus Capital              | vc       |

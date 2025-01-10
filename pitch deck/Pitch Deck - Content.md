@@ -2,6 +2,17 @@
 **Brand Name:** Diced  
 **Tagline:** ***ISKA KYA KRNA HAI***
 
+%% need to add 6 points here
+- covid numbers
+- total market + TAM 
+- growth rate of healthy marketing in india
+- competition and our unique solution/opportunity 
+- target audience
+- // - The number of health-conscious consumers is expected to rise to 176 million in 2026 from 108 million in 2020.
+- In 2020 (calendar year), health-focused foods and beverages were 11% of the $88 billion packaged foods and beverages market in India. This share is expected to move up to 16% or $30 billion by CY2026.
+- 1 more!!!
+%%
+
 ---
 
 ## Problem Statement
@@ -31,11 +42,19 @@
 Diced offers a **convenient, healthy, and efficient solution** for fitness enthusiasts and mindful eaters:  
 - By providing meticulously prepared meal kits, complete with raw materials and easy-to-follow recipes, delivered within 15-20 minutes, we aim to simplify meal preparation. Our service aligns with customers' dietary preferences and fitness goals while leveraging the **"IKEA Effect"** by enabling user participation in the cooking process.  [[Diced#^423234]]]
 
+1. *QUICK DELIVERY*
+2. *EASY MEAL preparation KITS*
+3. *FRESH AND HYGIENIC MEALS*
+4. *NUTRITIONAL BASED MEAL KITS*
+![[Pasted image 20250110104500.png]]
 ---
 
 ## Objectives
+
+*Aim is to make healthy eating as candid as breathing. Taking away the dilemma of making an effort to prepare meals, separate diet plans with nutritional value and constant monitoring*
+
 1. Simplify Meal Preparation  
-2. Enhance Nutritional Awareness  
+2. Enhance Nutritional Awareness  ~
 3. Ensure Minimal Preparation Time  
 4. Reduce Equipment Needs  
 
@@ -43,24 +62,15 @@ Diced offers a **convenient, healthy, and efficient solution** for fitness enthu
 
 ## Market Opportunities
 - **Healthy Food Market in India:**  
-	- Projected to reach **$30 billion by 2026**, growing at a **CAGR of 20%** (Source: India Unjunking | A USD 30 billion appetite for health food).  
+	- Projected to reach **$30 billion by 2026**, growing at a **CAGR of 20%** (Source: [India Unjunking | A USD 30 billion appetite for health food](https://www.livemint.com/industry/health-foods-and-beverages-market-to-touch-30-billion-by-2026-11646297727164.html)).  
 - **Target Market:**  [[calculations#^94a8c6]]   ^3a02ad
-	- **TAM (Total Addressable Market):** $450 million  
-	- **SAM (Serviceable Available Market):** $50 million  
+	- **TAM (Total Addressable Market):** $1.8 billion  
+	- **SAM (Serviceable Available Market):** $200 million  
 	- Initial focus on major cities: **Delhi, Bangalore, Mumbai, Hyderabad, Pune, Chennai**  
 
----
+*Consumer awareness about eating healthy is rapidly growing, following the trends of extended life-span ideology in the west.*
 
-## Product Details
-Diced provides:  
-- **Meticulously prepared meal kits** with fresh ingredients.  
-- Easy-to-follow recipes tailored to:  
-	- Dietary preferences  
-	- Fitness goals  
-- Focus on:  
-	- Freshly Sourced Ingredients
-	- Transparency  
-	- Quality  
+In 2020, 11% of the $88 billion packaged food market was health-focused, anticipated to grow to 16% by 2026. 
 
 ---
 
@@ -71,6 +81,25 @@ Diced provides:
 ### Aggregator Platforms
 - Will also be listed on aggregator platforms to increase the top of the funnel
 - The products listed will be price adjusted and only limited products would be available on aggregators and a wider variety of products would be present in the app
+
+### *EXPECTATIONS 2025-26*
+*By targeting two niche intially:*
+- *Health conscious consumers*
+- *Corporate employees*
+
+*We aim to build trust in the product in these to segments of audience.*
+
+--- 
+## Product Details
+Diced provides:  
+- **Meticulously prepared meal kits** with fresh ingredients.  
+- Easy-to-follow recipes tailored to:  
+	- Dietary preferences  
+	- Fitness goals  
+- Focus on:  
+	- Freshly Sourced Ingredients
+	- Transparency  
+	- Quality  
 
 ---
 
@@ -91,6 +120,7 @@ Diced provides:
 - Organic social media campaigns.  
 - Influencer marketing.  
 - Innovate offline marketing campaigns 
+*Embedding our motto of making “healthy eating a candid activity” and part of your day with strong brand recall will build consumer trust.*
 
 ### Initial Focus
 - Launch in **Bangalore**, with kitchens in:  
@@ -131,7 +161,7 @@ _To be finalized._
 ---
 
 ## Funding Ask
-**$300,000
+**$300,000**
 ### Breakdown:
 1. Hiring (Marketing, Business Development)  
 2. Hosting/Development  
