@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ff45fafb32543f07",
+        "id": "36be5cc1663e51ec",
         "type": "tabs",
         "children": [
           {
-            "id": "b68a7fcf19e2406d",
+            "id": "9bfddd00508f5374",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -163,10 +163,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b68a7fcf19e2406d",
+  "active": "9bfddd00508f5374",
   "lastOpenFiles": [
-    "pitch deck/Pitch Deck - Structure.md",
     "pitch deck/Pitch Deck - Content.md",
+    "pitch deck/Pitch Deck - Structure.md",
     "Cold Mail/Cold Mail.md",
     "Untitled.md",
     "Diced.md",

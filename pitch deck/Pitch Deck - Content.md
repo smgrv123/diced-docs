@@ -2,17 +2,6 @@
 **Brand Name:** Diced  
 **Tagline:** ***ISKA KYA KRNA HAI***
 
-%% need to add 6 points here
-- covid numbers
-- total market + TAM 
-- growth rate of healthy marketing in india
-- competition and our unique solution/opportunity 
-- target audience
-- // - The number of health-conscious consumers is expected to rise to 176 million in 2026 from 108 million in 2020.
-- In 2020 (calendar year), health-focused foods and beverages were 11% of the $88 billion packaged foods and beverages market in India. This share is expected to move up to 16% or $30 billion by CY2026.
-- 1 more!!!
-%%
-
 ---
 
 ## Problem Statement
