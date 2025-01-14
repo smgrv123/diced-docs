@@ -16,5 +16,5 @@ Ordered once times a month
 **TAM - $150 mil** / month 
 **SAM - $16.6mil** / month
 
-**TAM** annually-> $150 mil * 12 -> $1.5 bil
+**TAM** annually-> $150 mil * 12 -> $1.8 bil
 SAM annually -> $16.6 mil * 12 -> $ 200 mil

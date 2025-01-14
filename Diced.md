@@ -1,13 +1,10 @@
-**
-
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfMpkMKknS-siXtR613YVlYx7wPmLcPvhNxdk9PLZtL5sDiHi5kBp859ymQaD1zqLq7JwqKAwQELjjLDcp-MjoR_XuhsYqvyTmmvFjkUcJQq2UaerzukvcORwYUNOzDTnFTBdk09w?key=pExXvA0XlMcP4BCV2ebomw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfFuJL3yuw3vCGXB7Jp1K_wZi_mOYkC0lfy1zJm-EBmPZ5NoafXp6eeIEAr655Aju_swZzN7Suw-9hQBaCrs_dVpA9zz1G3OZhWcKaVNYze7i5aTCgiU8C-JXe0l4cD90QLnlf_LQ?key=pExXvA0XlMcP4BCV2ebomw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfPzc4sSTg2NYRhqOE8RwI3cJK2-55iFnAv1n36hfuzpe21Zk4YxlR7kHMzZYCziwgA2xIE18QHL-fYvreT4ze7UfaCzrC9HsRauQ3QkxQEK-K6Up6nrNAkpDw-fQls4mkU6qK63g?key=pExXvA0XlMcP4BCV2ebomw)```
-# Diced
-
 ## Overview
 
 The Diced initiative is designed to offer a convenient, healthy, and efficient solution for individuals committed to fitness and mindful eating. By providing meticulously prepared meal kits complete with raw materials and easy-to-follow recipes, we aim to simplify meal preparation while aligning with our customers' dietary preferences and fitness goals. Our focus is on freshness, speed, and nutritional transparency. ^423234
 
 ## Objectives
+
+^a95189
 
 - **Simplify Meal Preparation:** Eliminate the hassle of meal planning and grocery shopping by delivering ready-to-cook kits with pre-measured ingredients.
 - **Enhance Nutritional Awareness:** Empower consumers with precise nutritional information, including macro breakdowns for each meal kit option.

@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "555bd2f5d23a306d",
+        "id": "ff45fafb32543f07",
         "type": "tabs",
         "children": [
           {
-            "id": "ee8a6c68f0b3ac93",
+            "id": "b68a7fcf19e2406d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "pitch deck/Pitch Deck - Content.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Pitch Deck - Content"
             }
           }
         ]
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c75c482c34765c41",
@@ -158,18 +163,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03839bf9f82ddf4f",
+  "active": "b68a7fcf19e2406d",
   "lastOpenFiles": [
-    "Cold Mail",
-    "Diced.md",
+    "pitch deck/Pitch Deck - Structure.md",
     "pitch deck/Pitch Deck - Content.md",
     "Cold Mail/Cold Mail.md",
-    "Cold Mail/Cold Mail - Templates.md",
+    "Untitled.md",
+    "Diced.md",
+    "Pasted image 20250114174301.png",
     "calculations.md",
+    "assets/add-cart-state.png",
+    "assets/Pasted image 20250110104500.png",
+    "Cold Mail",
+    "Cold Mail/Cold Mail - Templates.md",
     "www.google.com.md",
     "Cold Mail/Cold Mail List.md",
-    "assets/Pasted image 20250110104500.png",
-    "Untitled.md",
     "India.md",
     "assets/zomato-fin-metrics.png",
     "assets/distribution-graph.png",
@@ -180,10 +188,7 @@
     "assets/Pasted image 20250106124330.png",
     "Tech/App Screens.md",
     "SKUs.md",
-    "pitch deck/Pitch Deck - Structure.md",
-    "assets/add-cart-state.png",
     "assets",
-    "Screenshot 2024-12-23 at 11.35.44 PM.png",
     "Tech",
     "Untitled 1.md",
     "pitch deck"

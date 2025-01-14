@@ -39,25 +39,27 @@
 
 ---
 ## Solution Overview
-Diced offers a **convenient, healthy, and efficient solution** for fitness enthusiasts and mindful eaters:  
+Diced offers a **convenient, healthy, and efficient solution** for fitness enthusiasts, mindful eaters and busy corporate employees:  
 - By providing meticulously prepared meal kits, complete with raw materials and easy-to-follow recipes, delivered within 15-20 minutes, we aim to simplify meal preparation. Our service aligns with customers' dietary preferences and fitness goals while leveraging the **"IKEA Effect"** by enabling user participation in the cooking process.  [[Diced#^423234]]]
 
-1. *QUICK DELIVERY*
-2. *EASY MEAL preparation KITS*
-3. *FRESH AND HYGIENIC MEALS*
-4. *NUTRITIONAL BASED MEAL KITS*
+1. easy to follow recipes
+	1. providing meticulously prepared meal kits, complete with raw materials and easy-to-follow recipes
+2. nutrition based meal kits
+	1.  Provide full nutritional transparency with detailed macro information for each dish.
+3. leverage the "IKEA Effect"
+	1. Enable user participation in the cooking process by leveraging the **"IKEA Effect"**
+4. quick delivery 
+	1. Delivering the meal kits in just 15 to 20 mins, so you can start cooking right away
+
 ![[Pasted image 20250110104500.png]]
 ---
 
 ## Objectives
+[[Diced#^a95189]]
 
-*Aim is to make healthy eating as candid as breathing. Taking away the dilemma of making an effort to prepare meals, separate diet plans with nutritional value and constant monitoring*
-
-1. Simplify Meal Preparation  
-2. Enhance Nutritional Awareness  ~
-3. Ensure Minimal Preparation Time  
-4. Reduce Equipment Needs  
-
+1. **Simplify Meal Preparation:** Eliminate the hassle of meal planning by delivering ready-to-cook kits with pre-measured ingredients.
+2. **Minimal Preparation Time**: Each meal kit designed and prepared in a way that the cooking time is no more than 10-15 mins
+3. **Limited Equipment Needs**: Simplify the cooking process by designing recipes that require only basic kitchen tools
 ---
 
 ## Market Opportunities
@@ -66,9 +68,18 @@ Diced offers a **convenient, healthy, and efficient solution** for fitness enthu
 - **Target Market:**  [[calculations#^94a8c6]]   ^3a02ad
 	- **TAM (Total Addressable Market):** $1.8 billion  
 	- **SAM (Serviceable Available Market):** $200 million  
-	- Initial focus on major cities: **Delhi, Bangalore, Mumbai, Hyderabad, Pune, Chennai**  
+	- Initial focus on major cities: **Bangalore, Hyderabad, Chennai, Pune, Delhi, Mumbai**  
 
-*Consumer awareness about eating healthy is rapidly growing, following the trends of extended life-span ideology in the west.*
+![[Pasted image 20250114174301.png]]
+
+The number of health conscious consumers are growing at **8%**(CAGR), and is expected to reach a total of 176 million by the end of 2026
+
+---
+## Graph page
+
+use the below shared information to design the graph ⬇️
+
+#### CAGR - 20% -> market size 30Bn
 
 In 2020, 11% of the $88 billion packaged food market was health-focused, anticipated to grow to 16% by 2026. 
 
@@ -76,43 +87,26 @@ In 2020, 11% of the $88 billion packaged food market was health-focused, anticip
 
 ## Business Model
 ### Direct to Consumer
-- The product would be served to the user through an app, that will help collect user data and also server future additions to the entire product line like subscriptions 
-
+~~- The product would be served to the user through an app, that will help collect user data and also server future additions to the entire product line like subscriptions ~~
+- The consumer can directly order from our platform, which would contain a larger array of products and would also serve as the base for any future innovations under the same umbrella
 ### Aggregator Platforms
-- Will also be listed on aggregator platforms to increase the top of the funnel
-- The products listed will be price adjusted and only limited products would be available on aggregators and a wider variety of products would be present in the app
+- Will also be listed on aggregator platforms to increase the visibility of the product to a wider segment of users
+- The products listed will be price adjusted and only limited products would be available on aggregators.
 
-### *EXPECTATIONS 2025-26*
-*By targeting two niche intially:*
-- *Health conscious consumers*
-- *Corporate employees*
-
-*We aim to build trust in the product in these to segments of audience.*
+### Strategic Roadmap
+1. Have diverse SKUs with weekly rotating menus  
+2. Introduce the subscription model for this service
+3. Announce the option to have the meal cooked for you
 
 --- 
-## Product Details
+## Product Details (discuss)
 Diced provides:  
-- **Meticulously prepared meal kits** with fresh ingredients.  
-- Easy-to-follow recipes tailored to:  
-	- Dietary preferences  
-	- Fitness goals  
+- **Meticulously prepared meal kits** 
+- prepared with fresh ingredients.  %% want to explain that each item would be prepared after the order is placed %%
 - Focus on:  
-	- Freshly Sourced Ingredients
 	- Transparency  
-	- Quality  
-
----
-
-## Cost Structure
-- cost that we would bear
-	- production cost (50-55%)
-		- raw material procurement 
-		- logistics (40-45%)
-		- preparation and delivery (20-25%)
-	- operating cost (40-45% of the total expense incurred) 
-		- marketing (45-50%)
-		- personnel (30-35%)
-		- tech (25-30%)
+	- Quality 
+- 
 ---
 
 ## Go-To-Market Strategy (GTM)
@@ -120,7 +114,7 @@ Diced provides:
 - Organic social media campaigns.  
 - Influencer marketing.  
 - Innovate offline marketing campaigns 
-*Embedding our motto of making “healthy eating a candid activity” and part of your day with strong brand recall will build consumer trust.*
+Encouraging the notion that "healthy eating is an effortless daily routine," paired with powerful brand recognition, will strengthen consumer loyalty.
 
 ### Initial Focus
 - Launch in **Bangalore**, with kitchens in:  
@@ -136,6 +130,7 @@ Competitors include:
 - healthy and slow
 	- Freshmenu  
 	- Eatfit  
+	- we.fit
 	- Parafit  ~
 	- Food Darzee  ~
 	- The Kenko Meal ~
@@ -156,22 +151,23 @@ Competitors include:
 ---
 
 ## Team
-_To be finalized._  
+
+Sumrit - Co-founders
+- what i am handling
+- social creds
+Rishabh - Co-founders
+- what u are handling
+- social creds
 
 ---
 
 ## Funding Ask
 **$300,000**
-### Breakdown:
-1. Hiring (Marketing, Business Development)  
-2. Hosting/Development  
-3. Marketing  
-4. Leasing Kitchen  
-5. Office Space  
-6. Procurement  
-7. Runway for 1.5 years  
 
-~ Plan to raise another round in 1-1.5 years for further expansion and marketing
+**Use beige and orange for the charts**
+logistics - 45%
+marketing - 25%
+personnel - 30%
 
 ---
 
