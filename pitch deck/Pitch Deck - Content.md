@@ -14,23 +14,10 @@
 - **Key Concern:**  
 	- Uncertainty about the quality and cleanliness of consumed meals.
 
-### Zomato numbers ⬇️
-#### Food delivery
-![[zomato-operating-revenue.png]]
-
-![[zomato-fin-metrics.png]]
-
-### Swiggy ⬇️
-![[swiggy-revenue.png]]
-
-### Zepto Cafe ⬇️
- The response has been phenomenal, with Zepto Cafe now achieving an (estimated) Annual Run Rate (ARR) GMV of Rs 160 crore with just 15 per cent of our expanding dark store network with proven unit economics.
-
 ---
 ## Solution Overview
 Diced offers a **convenient, healthy, and efficient solution** for fitness enthusiasts, mindful eaters and busy corporate employees:  
-- By providing meticulously prepared meal kits, complete with raw materials and easy-to-follow recipes, delivered within 15-20 minutes, we aim to simplify meal preparation. Our service aligns with customers' dietary preferences and fitness goals while leveraging the **"IKEA Effect"** by enabling user participation in the cooking process.  [[Diced#^423234]]]
-
+ [[Diced#^423234]]
 1. easy to follow recipes
 	1. providing meticulously prepared meal kits, complete with raw materials and easy-to-follow recipes
 2. nutrition based meal kits
@@ -40,7 +27,7 @@ Diced offers a **convenient, healthy, and efficient solution** for fitness enthu
 4. quick delivery 
 	1. Delivering the meal kits in just 15 to 20 mins, so you can start cooking right away
 
-![[Pasted image 20250110104500.png]]
+
 ---
 
 ## Objectives
@@ -59,24 +46,24 @@ Diced offers a **convenient, healthy, and efficient solution** for fitness enthu
 	- **SAM (Serviceable Available Market):** $200 million  
 	- Initial focus on major cities: **Bangalore, Hyderabad, Chennai, Pune, Delhi, Mumbai**  
 
-![[Pasted image 20250114174301.png]]
+- Health conscious consumers are expected to double their per capita spending on health-related foods and drinks by 2026
+- There is a noteworthy opportunity for growth, due to the relatively small proportion of health food in the packaged food sector
 
-The number of health conscious consumers are growing at **8%**(CAGR), and is expected to reach a total of 176 million by the end of 2026
 
 ---
 ## Graph page
-
+![[Pasted image 20250110104500.png]]
 use the below shared information to design the graph ⬇️
+### USD 30 Bn 
 
-#### CAGR - 20% -> market size 30Bn
+The market for health focused food and beverages will reach 30 billion by 2026
 
-In 2020, 11% of the $88 billion packaged food market was health-focused, anticipated to grow to 16% by 2026. 
+*The number of health conscious consumers are growing at **8%**(CAGR), and is expected to reach a total of 176 million by the end of 2026*-> iska dekh lena, paraphrase this not able to figure this out
 
 ---
 
 ## Business Model
 ### Direct to Consumer
-~~- The product would be served to the user through an app, that will help collect user data and also server future additions to the entire product line like subscriptions ~~
 - The consumer can directly order from our platform, which would contain a larger array of products and would also serve as the base for any future innovations under the same umbrella
 ### Aggregator Platforms
 - Will also be listed on aggregator platforms to increase the visibility of the product to a wider segment of users
@@ -88,10 +75,10 @@ In 2020, 11% of the $88 billion packaged food market was health-focused, anticip
 3. Announce the option to have the meal cooked for you
 
 --- 
-## Product Details (discuss)
+## Product Details 
 Diced provides:  
-- **Meticulously prepared meal kits** 
-- prepared with fresh ingredients.  %% want to explain that each item would be prepared after the order is placed %%
+- To ensure optimal freshness, the preparation of all meal kits will start only after the order is placed.
+- Reduce ordering indecision by simplifying the user experience of the app 
 - Focus on:  
 	- Transparency  
 	- Quality 
@@ -103,6 +90,7 @@ Diced provides:
 - Organic social media campaigns.  
 - Influencer marketing.  
 - Innovate offline marketing campaigns 
+
 Encouraging the notion that "healthy eating is an effortless daily routine," paired with powerful brand recognition, will strengthen consumer loyalty.
 
 ### Initial Focus
@@ -115,27 +103,32 @@ Encouraging the notion that "healthy eating is an effortless daily routine," pai
 ---
 
 ## Competitive Landscape
+
+
+- By recognizing a gap in the market for a quick serivce of healthy eating options, focused primarily on diet plan and nutritient focused food regime.
+- We aim to capture the market and consumer audience in this target spectrum.
+¥
+
 Competitors include:  
 - healthy and slow
-	- Freshmenu  
 	- Eatfit  
 	- we.fit
+	- salad days
+	- Freshmenu 
 	- Parafit  ~
 	- Food Darzee  ~
 	- The Kenko Meal ~
 - unhealthy and slow
 	- zomato
 	- swiggy
+	- ola foods
+	- magicpin
 - unhealthy and fast
 	- zepto
 	- bistro
 	- swish
 
 **~ company with subscriptions model**
-
-
-*add a variety with various spectrums*
-![[distribution-graph.png]]
  
 ---
 
@@ -152,6 +145,12 @@ Rishabh - Co-founders
 
 ## Funding Ask
 **$300,000**
+
+With the funds we aim to:
+- Set up the initial kitchen infrastructure and start delivering the meal kits.
+- Develop an effective supply chain system for acquiring raw materials.
+- Launch marketing efforts through both online and offline channels to gain visibility and onboard new users.
+- Find the product market fit
 
 **Use beige and orange for the charts**
 logistics - 45%

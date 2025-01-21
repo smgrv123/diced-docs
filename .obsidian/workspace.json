@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "36be5cc1663e51ec",
+        "id": "9a21b920f659d2b1",
         "type": "tabs",
         "children": [
           {
-            "id": "9bfddd00508f5374",
+            "id": "1ec28002685f0172",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 311.5
   },
   "right": {
     "id": "c75c482c34765c41",
@@ -163,21 +162,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9bfddd00508f5374",
+  "active": "1ec28002685f0172",
   "lastOpenFiles": [
-    "pitch deck/Pitch Deck - Content.md",
-    "pitch deck/Pitch Deck - Structure.md",
-    "Cold Mail/Cold Mail.md",
-    "Untitled.md",
-    "Diced.md",
-    "Pasted image 20250114174301.png",
+    "Cold Mail/Cold Mail List.md",
     "calculations.md",
+    "pitch deck/Pitch Deck - Content.md",
+    "Diced.md",
+    "Cold Mail/Cold Mail.md",
+    "Pasted image 20250114174301.png",
+    "pitch deck/Pitch Deck - Structure.md",
+    "Untitled.md",
     "assets/add-cart-state.png",
     "assets/Pasted image 20250110104500.png",
     "Cold Mail",
     "Cold Mail/Cold Mail - Templates.md",
     "www.google.com.md",
-    "Cold Mail/Cold Mail List.md",
     "India.md",
     "assets/zomato-fin-metrics.png",
     "assets/distribution-graph.png",
