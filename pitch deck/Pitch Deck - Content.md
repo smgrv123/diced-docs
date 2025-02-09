@@ -34,7 +34,7 @@ Diced offers a **convenient, healthy, and efficient solution** for fitness enthu
 [[Diced#^a95189]]
 
 1. **Simplify Meal Preparation:** Eliminate the hassle of meal planning by delivering ready-to-cook kits with pre-measured ingredients.
-2. **Minimal Preparation Time**: Each meal kit designed and prepared in a way that the cooking time is no more than 10-15 mins
+2. **Enhance Nutritional Knowledge**: Provide consumers with nutritional details, including macronutrient breakdowns for each meal kit.
 3. **Limited Equipment Needs**: Simplify the cooking process by designing recipes that require only basic kitchen tools
 ---
 
@@ -72,17 +72,12 @@ The market for health focused food and beverages will reach 30 billion by 2026
 ### Strategic Roadmap
 1. Have diverse SKUs with weekly rotating menus  
 2. Introduce the subscription model for this service
-3. Announce the option to have the meal cooked for you
+3. Add the option to have the meals cooked for you
 
 --- 
 ## Product Details 
 Diced provides:  
-- To ensure optimal freshness, the preparation of all meal kits will start only after the order is placed.
-- Reduce ordering indecision by simplifying the user experience of the app 
-- Focus on:  
-	- Transparency  
-	- Quality 
-- 
+
 ---
 
 ## Go-To-Market Strategy (GTM)
@@ -104,17 +99,13 @@ Encouraging the notion that "healthy eating is an effortless daily routine," pai
 
 ## Competitive Landscape
 
-
-- By recognizing a gap in the market for a quick serivce of healthy eating options, focused primarily on diet plan and nutritient focused food regime.
-- We aim to capture the market and consumer audience in this target spectrum.
-¥
+By spotting a gap in the market for simple, healthy eating solutions, the aim is to target fitness enthusiasts, mindful eaters, and busy professionals. 
 
 Competitors include:  
 - healthy and slow
 	- Eatfit  
 	- we.fit
 	- salad days
-	- Freshmenu 
 	- Parafit  ~
 	- Food Darzee  ~
 	- The Kenko Meal ~

@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pitch deck/Pitch Deck - Content.md",
+                "file": "SKUs.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SKUs"
+            }
+          },
+          {
+            "id": "bf779d42201c3992",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pitch deck/Elevator Pitch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pitch Deck - Content"
+              "title": "Elevator Pitch"
+            }
+          },
+          {
+            "id": "da7f6b36e7e8dbf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cold Mail/Cold Mail List.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cold Mail List"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "right": {
     "id": "c75c482c34765c41",
@@ -93,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pitch deck/Pitch Deck - Content.md",
+                "file": "pitch deck/Elevator Pitch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pitch Deck - Content"
+              "title": "Backlinks for Elevator Pitch"
             }
           },
           {
@@ -162,13 +192,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ec28002685f0172",
+  "active": "bf779d42201c3992",
   "lastOpenFiles": [
     "Cold Mail/Cold Mail List.md",
-    "calculations.md",
-    "pitch deck/Pitch Deck - Content.md",
+    "pitch deck/Elevator Pitch.md",
     "Diced.md",
     "Cold Mail/Cold Mail.md",
+    "pitch deck/Pitch Deck - Content.md",
+    "SKUs.md",
+    "calculations.md",
     "Pasted image 20250114174301.png",
     "pitch deck/Pitch Deck - Structure.md",
     "Untitled.md",
@@ -186,7 +218,6 @@
     "assets/Pasted image 20250106124353 1.png",
     "assets/Pasted image 20250106124330.png",
     "Tech/App Screens.md",
-    "SKUs.md",
     "assets",
     "Tech",
     "Untitled 1.md",

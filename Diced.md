@@ -1,6 +1,6 @@
 ## Overview
 
-The Diced initiative is designed to offer a convenient, healthy, and efficient solution for individuals committed to fitness and mindful eating. By providing meticulously prepared meal kits complete with raw materials and easy-to-follow recipes, we aim to simplify meal preparation while aligning with our customers' dietary preferences and fitness goals. Our focus is on freshness, speed, and nutritional transparency. ^423234
+Diced offers a **convenient, healthy, and efficient solution** for fitness enthusiasts, mindful eaters and busy corporate employees. By providing meticulously prepared meal kits complete with raw materials and easy-to-follow recipes, we aim to simplify meal preparation while aligning with our customers' dietary preferences and fitness goals. Our focus is on freshness, speed, and nutritional transparency. ^423234
 
 ## Objectives
 
