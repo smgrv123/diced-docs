@@ -11,7 +11,6 @@
 - 1/2 teaspoon turmeric powder
 - 1 teaspoon red chili powder
 - Salt to taste
-- 1 teaspoon garam masala
 - Fresh coriander leaves for garnish
 - 3 whole wheat rotis
 
@@ -20,7 +19,7 @@
 2. Add ginger-garlic paste and sauté for another minute.
 3. Add chopped tomatoes, turmeric powder, red chili powder, and salt. Cook until the tomatoes are soft and the oil separates.
 4. Add crumbled paneer and mix well. Cook for 2-3 minutes.
-5. Add garam masala and stir. Remove from heat and garnish with fresh coriander leaves.
+5. Remove from heat and garnish with fresh coriander leaves.
 6. Serve hot with whole wheat rotis.
 
 **Macros**
@@ -83,10 +82,51 @@
 5. Add sliced bell peppers, cumin powder, turmeric powder, red chili powder, and salt. Stir-fry together for another 3-5 minutes until the chicken is fully cooked and the veggies are tender yet crisp.
 6. Garnish with fresh coriander leaves before serving.
 
+Chicken 
+
+For marination 
+
+Chicken breast 1 piece (200gm appx)
+Salt as per taste 
+Pepper 3gms
+Garlic 5gms
+Thyme 1 sprig ( 1gm)
+Oil 30 ml
+Light soy sauce 5ml
+Parsley 2gms
+
+Step
+
+1.⁠ ⁠In a bowl add 15ml oil and all the ingredients,  mix well. 
+2.⁠ ⁠Now take the chicken in a flat surface, tap it with a heavy bottom pan or a saucepan to flatten it a lil bit. 
+3.⁠ ⁠Now carefully slice the chicken in between to get an equal of 2 pieces. 
+4.⁠ ⁠Now add in the chicken to the bowl. Mix it properly and let it sit for 45-60mins.
+1. Take a pressure cooker add all the veggies, water and a pinch of salt. Cook it till one whistle. Let it sit for 10mins
+Stir fry veggies 
+
+Haricot Beans ( normal beans) 40gms
+Carrot 30gms
+Peas 30gms
+Broccoli 50gms
+Salt as per taste 
+Pepper 1gmz
+Garlic 2-3 cloves (chopped)
+Butter 10gms
+Oregano 2gm
+Chilly flakes 2gm
+Oil (10ml)
+
+Steps 
+1. in a pan add oil and pan fry it on both sides for 5mins each by covering it with a lid.
+2. ⁠ ⁠Now slice the chicken lengthwise add some parsley and serve hot.
+3. ⁠ ⁠In a pan add butter garlic, saute for 1 min now add all the boiled veggies and seasonings.
+4. ⁠Stir fry it well.
+5. ⁠Serve hot with prepared chicken.
+
 **Estimated Nutritional Breakdown**
-- Calories: ~450 kcal
-- Protein: ~45g
-- Fat: ~20g
+- Calories: ~550 kcal
+- Protein: ~50g
+- Fat: ~28g
 - Carbohydrates: ~15g
 ---
 ### Palak Paneer with Roti - 20 mins
@@ -140,27 +180,37 @@
 ---
 ### Egg Curry with Rice - 15 mins
 
-**Ingredients**
-- 4 eggs, boiled
-- 1 tablespoon oil or ghee
-- 1 medium onion, chopped
-- 1 teaspoon ginger-garlic paste
-- 2 medium tomatoes, chopped
-- Spices (cumin, coriander, turmeric, red chili powder, garam masala)
-- Salt to taste
-- 1 cup cooked basmati rice
+#### Ingredients
 
-**Instructions**
-1. Heat oil, sauté onion until golden.
-2. Add ginger-garlic paste, tomatoes, and spices. Cook until tomatoes soften.
-3. Add boiled eggs, simmer for 5 minutes.
-4. Serve with cooked rice.
+Eggs 2pc
+Onion 1 medium sliced 
+Tomato 1 medium sliced 70g
+Chilly powder 1/2 tsp
+Turmeric powder 1/4 tsp
+Salt as per taste
+Coriander powder 1tsp
+Garam masala 1/2 tsp
+Garlic ginger chilly paste 1 tbsp
+Oil 20ml + 20ml ( for frying eggs) 
+Cumin seeds 3-4 gm
+Dry red chilly 2 pcs
+Hing a pinch 
+Coriander leaves ( for garnishing)
+
+Steps
+
+1. ⁠ ⁠In a pan add oil, cumin seeds, dry red chilly and hing . Let it splutter. Now add ginger garlic paste. Cook it for 30 sec
+2. ⁠ ⁠Now add in the Onion and Tomato, let it cook for 2 mins. Now add all the dry masalas and add a little water to prevent burning of the masalas. 
+3. ⁠ ⁠Now let it cook till the onions and tomatoes are Totally mushy.
+4. In a different pan add some oil. Add in salt, red chilli powder and eggs. Cook it for 1 min till the coats in the masala .
+5. ⁠Now add the eggs in the gravy and add garam masala and coriander leaves. Mix properly.
+6.  ⁠Serve hot with parathas.
 
 **Macros**
 - Calories: ~600 kcal
-- Protein: ~30g
-- Fat: ~30g
-- Carbohydrates: ~60g
+- Protein: ~25g
+- Fat: ~27g
+- Carbohydrates: ~66g
 ---
 ### Egg Bhurji with Roti - 10 mins
 
@@ -262,3 +312,42 @@
 - Carbohydrates: ~50g
 - Fat: ~8g
 
+---
+## Matar paneer with 3 rotis
+ 
+### Ingredients 
+
+Paneer 100gms
+Matar 30gms
+Onion 1 small paste
+Tomato 1 medium paste
+Ginger garlic paste 1tbsp
+Cashew nuts 5gms (paste)
+Salt as per taste 2
+Turmeric powder 1/4 tsp
+Chilly powder 1/2,tsp
+Coriander powder 1tsp
+Coriander leaves for garnishing 
+Coriander stems for gravy
+Kashmiri chilly powder 1/2 tsp
+Garam masala 1/2 tsp
+Oil 30ml
+Fresh cream 10ml
+
+
+Steps 
+
+1. ⁠ ⁠In a Kadhai add 20 ml of oil add onion and tomato paste and cook for 2-3 mins. Now add a pinch of salt and ginger garlic paste. 
+2. Now add the paste of cashew nuts. Cook it by gradually adding a lil bit of water till the oil separates. (10-15mins cooking time for gravy) 
+3. ⁠Now in a different pan add 5 ml of oil stir fry the matar and paneer. Keep it aside 
+4. ⁠ ⁠In the same pan add the prepared gravy. Add all the dry masalas. Mix well add some water to maintain the consistency. Cook it for 5 mins 
+5. ⁠Now add the matar and paneer. Cook for 2 mins. 
+6. Now add garam masala and coriander leaves. 
+7. ⁠Serve hot with parathas .
+
+macros
+
+carbs - 800
+protein - 33
+fats - 40
+carb - 75

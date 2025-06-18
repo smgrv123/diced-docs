@@ -64,3 +64,33 @@ Here are the rewritten versions of your elevator pitches, refined to be engaging
 
 10. **For Transparency & Quality**  
     You should know exactly what’s in your food. With Diced, you do. Our fresh, pre-portioned meal kits come with full nutritional transparency—no preservatives, no mystery ingredients, just clean, high-quality meals that cook in 10-15 minutes. Eating better has never been this easy.
+
+
+
+---
+S - Hi, my name is Sumrit and I am the CEO of  Diced. 
+R -And my name is Rishabh and I am the CGO of Diced
+S- We have known each other for more than 10 years now, and have been friends since our school days and now we are building Diced. 
+
+S- We all want to eat better, but let’s be honest—planning, prepping, and cooking every meal is a hassle. We at Diced make it easy by delivering fresh, portioned meal kits with simple, step-by-step recipes, so you can cook a healthy meal in just 15 - 20 minutes. 
+
+R- With the healthy food market expected to reach 30 billion dollars by 2026, we are positioned right at the intersection of convenience and clean eating. So no more last-minute ordering or second-guessing what is really in your food. Just clean, balanced meals without a lot of thinking
+
+  
+_"Hi, I’m [Your Name], and this is [Co-Founder’s Name]. We’re the co-founders of_ **_Diced_**_, and we’re here to solve one of the problems in modern-day eating."_
+
+"We all know that **eating healthy is important**, but here’s the **reality**:"  
+1. **Cooking takes too much time.** Between work and life, **most people** don’t have the energy to prepare fresh meals **every day**.  
+2. Healthy food options are often **scarce**, ordering out is often **unhealthy**, and meal prepping is a **hassle**.  
+3. **There’s no real transparency in what we eat.** From unhygienic environment to cheap ingredients in restaurant food, we don’t always know what’s going into our meals.
+---
+_"That’s where_ **_Diced_** _comes in—our meal kit service makes home cooking effortless by providing:"_  
+
+ 1. **Pre-portioned, nutrient-packed ingredients**—so you get the right balance of macros without any waste.  
+ 2. **Recipes that take just 15 minutes**—so you can cook a fresh, healthy meal with ease. 
+ 3. **15-minute delivery**—so you never have to wait long to start cooking.
+
+_"The healthy eating market is exploding, with a projected_ **_$30 billion_** _market size by 2026. Busy professionals, fitness enthusiasts, and health-conscious consumers are actively looking for quick, healthy solutions—and Diced is built exactly for them."_
+
+---
+"At Diced, we believe healthy eating should be a candid activity—something you do effortlessly, without even thinking about it."

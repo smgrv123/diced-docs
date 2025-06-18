@@ -21,3 +21,14 @@ Please do let me know if the above proposal appeals to you and I would be happy 
 Best Regards  
 [Sumrit Grover/Rishabh Jain]  
 Diced
+
+---
+Hi [Name],
+
+Just wanted to bump this email to the top of your inbox. We launched our waitlist for Diced and are sending out samples to get real user feedback.
+
+We are excited about the initial responses. This direct feedback loop is crucial for refining our product and ensuring strong market fit. Would you be open to a quick call to hear more about Diced and our progress?
+
+Best Regards,
+
+[Sumrit Grover/Rishabh Jain] Diced

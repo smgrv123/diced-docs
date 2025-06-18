@@ -81,6 +81,8 @@ Diced provides:
 ---
 
 ## Go-To-Market Strategy (GTM)
+
+*more detailed GTM strategy. details on how we would start the initial campaign for RTC market with items leading to more user retention and user onboarding. then addition with the RTE market within the 20-25 min delivery market. adding on more items that would lead to impulse buying and satisfy cravings and indulgences. Also mention the minimal food wastage modal that would be required* 
 ### Marketing
 - Organic social media campaigns.  
 - Influencer marketing.  
@@ -136,6 +138,7 @@ Rishabh - Co-founders
 
 ## Funding Ask
 **$300,000**
+*more detailed breakdown of the funds that are being requested. what personnel is required, the utilisation of supply chain, cost of setting up a q-coms model to cater to impulse consumption as well with an increased SKUs list.*
 
 With the funds we aim to:
 - Set up the initial kitchen infrastructure and start delivering the meal kits.
