@@ -83,19 +83,21 @@ Diced provides:
 ## Go-To-Market Strategy (GTM)
 
 *more detailed GTM strategy. details on how we would start the initial campaign for RTC market with items leading to more user retention and user onboarding. then addition with the RTE market within the 20-25 min delivery market. adding on more items that would lead to impulse buying and satisfy cravings and indulgences. Also mention the minimal food wastage modal that would be required* 
+
+
 ### Marketing
-- Organic social media campaigns.  
-- Influencer marketing.  
-- Innovate offline marketing campaigns 
+- Build a strong social media community around healthy eating, home cooked food and the easy of cooking. 
+- Partner up with fitness and food influencers, making them post while they cook and consume the product. This would help build a more reputable system for the vision that we are trying to sell
+- Innovative offline marketing campaigns. For example, a smoothie bike challenge or a protein passport challenge(fulfil your protein requirements for a week and get a meal free)
+![[smoothie-bike.png]]
 
 Encouraging the notion that "healthy eating is an effortless daily routine," paired with powerful brand recognition, will strengthen consumer loyalty.
 
-### Initial Focus
-- Launch in **Bangalore**, with kitchens in:  
-	- Koramangala  
-	- HSR  
-	- Indiranagar  
-- Gradual expansion while managing aggregator demand.  
+### Initial Launch Focus
+- Launch in **Bangalore**, with kitchen gradually opening in the hotspots of the city like Koramangala, HSR etc. 
+- Initially increase the number of SKUs incorporate indulgences, different dietary restrictions and cuisines.
+- *hard rule to always abide by the 15-20 mins delivery*
+- *Introduce the subscription model*
 
 ---
 
