@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Pitch Deck - Content"
             }
+          },
+          {
+            "id": "3959308e48d036f8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,11 +174,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f3c3ee47dec42fe",
+  "active": "3959308e48d036f8",
   "lastOpenFiles": [
-    "smoothie-bike.png",
     "pitch deck/Pitch Deck - Content.md",
-    "Untitled.md",
+    "Mail WUB.md",
+    "smoothie-bike.png",
     "Pasted image 20250501172924.png",
     "Pasted image 20250501172709.png",
     "Pasted image 20250501172849.png",

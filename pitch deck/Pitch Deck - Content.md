@@ -64,15 +64,15 @@ The market for health focused food and beverages will reach 30 billion by 2026
 
 ## Business Model
 ### Direct to Consumer
-- The consumer can directly order from our platform, which would contain a larger array of products and would also serve as the base for any future innovations under the same umbrella
-### Aggregator Platforms
+- The consumer can directly order from the app, which would allow them order from a wide array of opens based on there nutrient requirements and dietary preferences
+
+- 
+%% ### Aggregator Platforms
 - Will also be listed on aggregator platforms to increase the visibility of the product to a wider segment of users
-- The products listed will be price adjusted and only limited products would be available on aggregators.
+- The products listed will be price adjusted and only limited products would be available on aggregators. %%
 
 ### Strategic Roadmap
-1. Have diverse SKUs with weekly rotating menus  
-2. Introduce the subscription model for this service
-3. Add the option to have the meals cooked for you
+1. Expand services to various hotspots of the city which would in-turn help us reach more users in various parts of the city
 
 --- 
 ## Product Details 
@@ -142,16 +142,30 @@ Rishabh - Co-founders
 **$300,000**
 *more detailed breakdown of the funds that are being requested. what personnel is required, the utilisation of supply chain, cost of setting up a q-coms model to cater to impulse consumption as well with an increased SKUs list.*
 
-With the funds we aim to:
-- Set up the initial kitchen infrastructure and start delivering the meal kits.
-- Develop an effective supply chain system for acquiring raw materials.
-- Launch marketing efforts through both online and offline channels to gain visibility and onboard new users.
-- Find the product market fit
+This $1 million will be strategically allocated to ensure efficient setup and sustainable growth:
+
+- **Logistics & Infrastructure: 45% ($450,000)** This covers setting up our initial cloud kitchen locations, including **rent, security deposits, and essential kitchen equipment**. It also funds our initial raw material procurement, crucial packaging, and the setup for the quick commerce infrastructure
+- **Marketing & Customer Acquisition: 30% ($300,000)** This portion is for making sure customers know about us and love our food. We'll use these funds for **online advertising, social media campaigns, and local promotions** to attract early users. *It also supports continuous testing and refining of our menu to ensure we're offering exactly what our customers want for impulse purchases.(not sure about this)*
+- **Personnel & Team Building: 25% ($250,000)** This allocation is for building our core team. It will cover **salaries for key hires** like our head chef, kitchen staff, delivery personnel, and essential management roles in operations, growth, and technology. This ensures we have the talent needed to run our kitchens efficiently and manage our quick commerce model effectively.
 
 **Use beige and orange for the charts**
 logistics - 45%
 marketing - 25%
 personnel - 30%
+
+
+---
+for my reference
+35k rent
+head chef 70k 
+staff * 3 25k
+4 * del partners 20k
+in-house team
+2 mid level sdes 1.5L 
+1 growth and marketing 1L
+2 business 1.5L
+1 social media 1L
+
 
 ---
 
