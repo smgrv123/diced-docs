@@ -79,6 +79,14 @@ The market for health focused food and beverages will reach 30 billion by 2026
 Diced provides:  
 
 ---
+## Operational Flow
+
+1. Order gets placed (00:00)
+2. preparation starts in the assembly line. (a station for rice/ rotis, chopping fresh veggies, getting the spice mix, gravy, etc)  (00:00-07:00)
+3. packing the said material, and getting it delivery ready (7:00-8:30)
+4. handing over to the delivery person, who is going to deliver the item within a 2km radius (8:30-15:00)
+5. delivery person reaches the delivery destination(15:00)
+---
 
 ## Go-To-Market Strategy (GTM)
 
@@ -124,7 +132,13 @@ Competitors include:
 	- swish
 
 **~ company with subscriptions model**
- 
+
+---
+## High Level Projections and Funding Utilisation
+
+1. revenue projections
+	1. [[calculations#^ab20db]] 
+	2. fund
 ---
 
 ## Team

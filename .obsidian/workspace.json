@@ -25,14 +25,17 @@
             "id": "3959308e48d036f8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "calculations.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "calculations"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,9 +177,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3959308e48d036f8",
+  "active": "0f3c3ee47dec42fe",
   "lastOpenFiles": [
+    "calculations.md",
     "pitch deck/Pitch Deck - Content.md",
+    "Untitled.md",
     "Mail WUB.md",
     "smoothie-bike.png",
     "Pasted image 20250501172924.png",
@@ -193,7 +198,6 @@
     "Cold Mail/WA Group Message.md",
     "pitch deck/Elevator Pitch.md",
     "assets/zomato-fin-metrics.png",
-    "calculations.md",
     "Cold Mail/Cold Mail.md",
     "Cold Mail/Cold Mail List.md",
     "assets/swiggy-revenue.png",

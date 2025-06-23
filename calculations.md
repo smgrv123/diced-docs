@@ -41,3 +41,36 @@ subs - 50 rupee drop on aov
 del guy salary - 30k 
 20-25 order per day
 20x30 = 600
+
+---
+ASP-250  ^ab20db
+
+## month 1
+
+Ads spend - 40000
+
+Leads generated - 10000
+
+RS.4 spent for each lead generated
+
+Conversion - 13%
+
+CAC - 70
+
+each month customers acquired - 1300 (initially but dropped of before placing the order)
+
+from the users converted 50% order - 650 new orders 
+
+COGS - 150
+
+Returns/disc/wastage - 50%
+
+gross revenue cal - 
+
+650×250 - 162500
+
+Net revenue
+
+COGS - 650×150 = 97500
+
+net revenue - 162500-97500 - 81,250 = -16,250
