@@ -105,7 +105,6 @@ Encouraging the notion that "healthy eating is an effortless daily routine," pai
 - Launch in **Bangalore**, with kitchen gradually opening in the hotspots of the city like Koramangala, HSR etc. 
 - Initially increase the number of SKUs incorporate indulgences, different dietary restrictions and cuisines.
 - *hard rule to always abide by the 15-20 mins delivery*
-- *Introduce the subscription model*
 
 ---
 
@@ -138,7 +137,14 @@ Competitors include:
 
 1. revenue projections
 	1. [[calculations#^ab20db]] 
-	2. fund
+	2. gross and net revenue (https://docs.google.com/spreadsheets/d/1pm66AVXJSejYCDyj5X1Zhr1rjeCa-FHiVisF60cuH2M/edit?usp=sharing)
+	3. OpEx - same excel sheet 2
+	4. Burn Rate - *iska graph bana dena, take the total negative net revenue and the OpEx month on month and show ki itna burn kr rhe hai per month and because we are scaling toh burn bhi increase hoga currently with time*
+
+2. Unit Economics
+	1. AOV - The average value for a veg meal kit is Rs.250 and for a non veg meal kit in Rs.300
+	2. COGS - The average COGS for the meal kit is Rs.180 which includes the packaging material and delivery cost. The COGS will drop to Rs.100-Rs.120 as well scale and optimize the supply chain for the procurement
+	3. CAC - The CAC is coming between 60-80 (*isko thoda sa explain krdea aur expand bhi kr dena*)
 ---
 
 ## Team
@@ -153,33 +159,16 @@ Rishabh - Co-founders
 ---
 
 ## Funding Ask
-**$300,000**
-*more detailed breakdown of the funds that are being requested. what personnel is required, the utilisation of supply chain, cost of setting up a q-coms model to cater to impulse consumption as well with an increased SKUs list.*
 
-This $1 million will be strategically allocated to ensure efficient setup and sustainable growth:
+This $500,000 will be strategically allocated to ensure efficient setup and sustainable growth:
 
-- **Logistics & Infrastructure: 45% ($450,000)** This covers setting up our initial cloud kitchen locations, including **rent, security deposits, and essential kitchen equipment**. It also funds our initial raw material procurement, crucial packaging, and the setup for the quick commerce infrastructure
-- **Marketing & Customer Acquisition: 30% ($300,000)** This portion is for making sure customers know about us and love our food. We'll use these funds for **online advertising, social media campaigns, and local promotions** to attract early users. *It also supports continuous testing and refining of our menu to ensure we're offering exactly what our customers want for impulse purchases.(not sure about this)*
-- **Personnel & Team Building: 25% ($250,000)** This allocation is for building our core team. It will cover **salaries for key hires** like our head chef, kitchen staff, delivery personnel, and essential management roles in operations, growth, and technology. This ensures we have the talent needed to run our kitchens efficiently and manage our quick commerce model effectively.
+- **Logistics & Infrastructure: 30% ($150,000)** 
+	  - This covers setting up our initial cloud in HSR, including **rent, security deposits, and essential kitchen equipment**. This amount will also be utilised to expand and open cloud kitchens in other hotspots like Koramangala, Whitefield etc as well. This would also enable us to setup our own cloud kitchen infrastructure with in-house delivery fleet. The estimated cost per kitchen setup is $10,000 - $12,000.
+	  - This amount would also support the setup for a efficient supply chain that would support the procurement for raw materials, have custom packaging, insulated delivery backpacks etc.   
 
-**Use beige and orange for the charts**
-logistics - 45%
-marketing - 25%
-personnel - 30%
+- **Marketing & Customer Acquisition: 30% ($150,000)** Acquire 30,000-40,000 paying customers with a MAU of around 5000 within the first 12 months of operations in Bangalore, achieving a CAC of $0.8-$1 through specific marketing channels (30% organic marketing , 20% offline marketing (mixture of traditional marketing and in-person events), 20% influencer marketing, 30% online ads). 
 
-
----
-for my reference
-35k rent
-head chef 70k 
-staff * 3 25k
-4 * del partners 20k
-in-house team
-2 mid level sdes 1.5L 
-1 growth and marketing 1L
-2 business 1.5L
-1 social media 1L
-
+- **Personnel & Team Building: 40% ($200,000)** Hire a core team of **25 full-time employees** in the first 12 months, including 1 Head Chef, 3 Kitchen Staff, 3 Delivery Personnel, 2 Software Developers, 1 Business Role, and 1 Growth and Marketing Role during the initial phase and scale to 2 Head Chef, 12 Kitchen Staff, 5 Software Developers, 2 Business Roles, and 2 Growth and Marketing Roles, 2 Operations Managers, 1 Social Media Managers.
 
 ---
 
