@@ -61,3 +61,15 @@
 | FALSE     | Sujeet Kumar (sujeet@udaan.com)  | Angel    |
 |           | 7wire                            |          |
 |           |                                  |          |
+v3 ventures arjun vaidya
+bombay shaving company founder
+aditya arora 
+ananya narang
+rishav agarwal
+aclr8
+rainmatter dilip kumar
+blumberg capital
+abhishek agarwal appreciate capital
+abhineet kumar
+suhas motwani
+rukam capital
