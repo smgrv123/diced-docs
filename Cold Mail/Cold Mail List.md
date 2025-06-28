@@ -63,7 +63,7 @@
 |           |                                                      |          |
 v3 ventures arjun vaidya (arjun@v3.ventures, shweta@v3.ventures, hello@v3.ventures)
 bombay shaving company founder (shantanu@bombayshavingcompany.com)
-aditya arora (aditya.arora@faad.in, aditya.arora@faad.in, )
+aditya arora (aditya.arora@faad.in, kavi@indiaconnection.co.in, vansh.mittal@faad.in)
 ananya narang
 rishav agarwal rishav@picxele.com
 aclr8 hello@aclr8.vc
@@ -76,4 +76,24 @@ wolfpacklabs (krishna@wolfpacklabs.vc, vaibhav@wolfpacklabs.vc, prerna@wolfpackl
 lightbox (akshat@lightbox.vc, tanya@lightbox.vc, snigdha@lightbox.vc)
 Capinity Partners (samir@capinity.in, jitendra@capinity.in)
 sharan hegde sharan.hegde@onepercentclub.io
+
+FibonacciX(tarun@xfibonacci.com, preksha@xfibonacci.com, vatsal@xfibonacci.com)
+ascent capital (varun@ascentcapital.in, vasanth@ascentcapital.in, deepak@ascentcapital.in)
+RPSG capital ventures (sambit@rpsgcapital.vc, hersh@rpsgcapital.vc, divyam@rpsgcapital.vc, raghav@rpsgcapital.vc)
+Multiply Ventures (bhushan@multiplyventures.com, shruti@multiplyventures.com)
+Artha ventures (vedant@artha.ventures, aayushi@artha.ventures)
+blume ventures (sajith@blume.vc, jatin@blume.vc, udayan@blume.vc)
+capital a (aswani@capital-a.in, aditya@capital-a.in, raashi@capital-a.in)
+devc (rahul@devc.com, divyanshi@devc.com)
+sunicon ventures (aakansh@sunicon.vc, krunal@sunicon.vc)
+OTP ventures (suhail@otp.vc, saurabh@otp.vc)
+chanakya(gk@chanakya.fyi, puneet@chanakya.fyi)
+247vc (yagnesh@247vc.in, khushi@247vc.in)
+2AM VC(hershel@2amvc.com, jaitra@2amvc.com, brendan@2amvc.com)
+3on4 capital (gajanan.kamath@3one4capital.com, shrinu@3one4capital.com)
+8i ventures(shubham@8ivc.com, yug@8ivc.com)
+advantedge ventures (rt@advantedge.vc, mv@advantedge.vc)
+all in capital (aditya.singh@allincapital.vc, simran@allincapital.vc, ritvik@allincapital.vc)
+anthill ventures(nagendra@anthillventures.com, vishuddh@anthillventures.com)
+marsshot ventures (arjit@marsshot.vc, shashank.mehta@marsshot.vc)
 
