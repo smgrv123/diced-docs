@@ -80,20 +80,20 @@ sharan hegde sharan.hegde@onepercentclub.io
 FibonacciX(tarun@xfibonacci.com, preksha@xfibonacci.com, vatsal@xfibonacci.com)
 ascent capital (varun@ascentcapital.in, vasanth@ascentcapital.in, deepak@ascentcapital.in)
 RPSG capital ventures (sambit@rpsgcapital.vc, hersh@rpsgcapital.vc, divyam@rpsgcapital.vc, raghav@rpsgcapital.vc)
-Multiply Ventures (bhushan@multiplyventures.com, shruti@multiplyventures.com)
-Artha ventures (vedant@artha.ventures, aayushi@artha.ventures)
-blume ventures (sajith@blume.vc, jatin@blume.vc, udayan@blume.vc)
-capital a (aswani@capital-a.in, aditya@capital-a.in, raashi@capital-a.in)
-devc (rahul@devc.com, divyanshi@devc.com)
-sunicon ventures (aakansh@sunicon.vc, krunal@sunicon.vc)
+Multiply Ventures (bhushan@multiplyventures.com, shruti@multiplyventures.com)-done
+Artha ventures (vedant@artha.ventures, aayushi@artha.ventures) - done
+blume ventures (sajith@blume.vc, jatin@blume.vc, udayan@blume.vc) - done
+capital a (aswani@capital-a.in, aditya@capital-a.in, raashi@capital-a.in) - done
+devc (rahul@devc.com, divyanshi@devc.com) - done
+sunicon ventures (aakansh@sunicon.vc, krunal@sunicon.vc) - done
 OTP ventures (suhail@otp.vc, saurabh@otp.vc)
-chanakya(gk@chanakya.fyi, puneet@chanakya.fyi)
-247vc (yagnesh@247vc.in, khushi@247vc.in)
-2AM VC(hershel@2amvc.com, jaitra@2amvc.com, brendan@2amvc.com)
-3on4 capital (gajanan.kamath@3one4capital.com, shrinu@3one4capital.com)
-8i ventures(shubham@8ivc.com, yug@8ivc.com)
+chanakya(gk@chanakya.fyi, puneet@chanakya.fyi) - done
+247vc (yagnesh@247vc.in, khushi@247vc.in) - done
+2AM VC(hershel@2amvc.com, jaitra@2amvc.com, brendan@2amvc.com) - done
+3on4 capital (gajanan.kamath@3one4capital.com, shrinu@3one4capital.com) - done
+8i ventures(shubham@8ivc.com, yug@8ivc.com) - done
 advantedge ventures (rt@advantedge.vc, mv@advantedge.vc)
-all in capital (aditya.singh@allincapital.vc, simran@allincapital.vc, ritvik@allincapital.vc)
-anthill ventures(nagendra@anthillventures.com, vishuddh@anthillventures.com)
-marsshot ventures (arjit@marsshot.vc, shashank.mehta@marsshot.vc)
+all in capital (aditya.singh@allincapital.vc, simran@allincapital.vc, ritvik@allincapital.vc) - done
+anthill ventures(nagendra@anthillventures.com, vishuddh@anthillventures.com) - done
+marsshot ventures (arjit@marsshot.vc, shashank.mehta@marsshot.vc) - done
 
