@@ -61,39 +61,47 @@
 | FALSE     | Sujeet Kumar (sujeet@udaan.com)                      | Angel    |
 |           | 7wire                                                |          |
 |           |                                                      |          |
-v3 ventures arjun vaidya (arjun@v3.ventures, shweta@v3.ventures, hello@v3.ventures)
+v3 ventures arjun vaidya (arjun@v3.ventures, shweta@v3.ventures, hello@v3.ventures) - done
 bombay shaving company founder (shantanu@bombayshavingcompany.com)
-aditya arora (aditya.arora@faad.in, kavi@indiaconnection.co.in, vansh.mittal@faad.in)
+aditya arora (aditya.arora@faad.in, kavi@indiaconnection.co.in, vansh.mittal@faad.in)-done
 ananya narang
-rishav agarwal rishav@picxele.com
-aclr8 hello@aclr8.vc
+rishav agarwal rishav@picxele.com - done
+aclr8 hello@aclr8.vc - done
 rainmatter dilip kumar https://rainmatter.com/
-abhishek agarwal appreciate capital (abhishek@appreciate.capital, sairee@appreciate.capital)
+abhishek agarwal appreciate capital (abhishek@appreciate.capital, sairee@appreciate.capital) - done
 abhineet kumar
 suhas motwani
-rukam capital (https://rukamcapital.com/pitch-to-us/, karan@rukamcapital.com, aditya@rukamcapital.com, shashank@rukamcapital.com)
-wolfpacklabs (krishna@wolfpacklabs.vc, vaibhav@wolfpacklabs.vc, prerna@wolfpacklabs.vc)
-lightbox (akshat@lightbox.vc, tanya@lightbox.vc, snigdha@lightbox.vc)
-Capinity Partners (samir@capinity.in, jitendra@capinity.in)
+rukam capital (https://rukamcapital.com/pitch-to-us/, karan@rukamcapital.com, aditya@rukamcapital.com, shashank@rukamcapital.com) - done
+wolfpacklabs (krishna@wolfpacklabs.vc, vaibhav@wolfpacklabs.vc, prerna@wolfpacklabs.vc)-done
+lightbox (akshat@lightbox.vc, tanya@lightbox.vc, snigdha@lightbox.vc)-done
+~~Capinity Partners (samir@capinity.in, jitendra@capinity.in)-done - no~~
 sharan hegde sharan.hegde@onepercentclub.io
 
-FibonacciX(tarun@xfibonacci.com, preksha@xfibonacci.com, vatsal@xfibonacci.com)
-ascent capital (varun@ascentcapital.in, vasanth@ascentcapital.in, deepak@ascentcapital.in)
-RPSG capital ventures (sambit@rpsgcapital.vc, hersh@rpsgcapital.vc, divyam@rpsgcapital.vc, raghav@rpsgcapital.vc)
+FibonacciX(tarun@xfibonacci.com, preksha@xfibonacci.com, vatsal@xfibonacci.com)-done
+ascent capital (varun@ascentcapital.in, vasanth@ascentcapital.in, deepak@ascentcapital.in)-done
+RPSG capital ventures (sambit@rpsgcapital.vc, hersh@rpsgcapital.vc, divyam@rpsgcapital.vc, raghav@rpsgcapital.vc) - done
 Multiply Ventures (bhushan@multiplyventures.com, shruti@multiplyventures.com)-done
-Artha ventures (vedant@artha.ventures, aayushi@artha.ventures) - done
+~~Artha ventures (vedant@artha.ventures, aayushi@artha.ventures) - done - no~~
 blume ventures (sajith@blume.vc, jatin@blume.vc, udayan@blume.vc) - done
-capital a (aswani@capital-a.in, aditya@capital-a.in, raashi@capital-a.in) - done
+~~capital a (aswani@capital-a.in, aditya@capital-a.in, raashi@capital-a.in) - done~~
 devc (rahul@devc.com, divyanshi@devc.com) - done
 sunicon ventures (aakansh@sunicon.vc, krunal@sunicon.vc) - done
-OTP ventures (suhail@otp.vc, saurabh@otp.vc)
-chanakya(gk@chanakya.fyi, puneet@chanakya.fyi) - done
+OTP ventures (suhail@otp.vc, saurabh@otp.vc) - done
+~~chanakya(gk@chanakya.fyi, puneet@chanakya.fyi) - done~~
 247vc (yagnesh@247vc.in, khushi@247vc.in) - done
 2AM VC(hershel@2amvc.com, jaitra@2amvc.com, brendan@2amvc.com) - done
 3on4 capital (gajanan.kamath@3one4capital.com, shrinu@3one4capital.com) - done
 8i ventures(shubham@8ivc.com, yug@8ivc.com) - done
 advantedge ventures (rt@advantedge.vc, mv@advantedge.vc)
-all in capital (aditya.singh@allincapital.vc, simran@allincapital.vc, ritvik@allincapital.vc) - done
-anthill ventures(nagendra@anthillventures.com, vishuddh@anthillventures.com) - done
+~~all in capital (aditya.singh@allincapital.vc, simran@allincapital.vc, ritvik@allincapital.vc) - done - no~~
+~~anthill ventures(nagendra@anthillventures.com, vishuddh@anthillventures.com) - done - no~~
 marsshot ventures (arjit@marsshot.vc, shashank.mehta@marsshot.vc) - done
 
+day zero ventures - hi@dzero.vc
+~~dexture ventures (ankit@dexterangels.com, devansh@dexter.ventures, sorabh@dexter.ventures) - done~~
+equanimity ventures (nankee.hari@equanimity.vc, rohit.bagla@equanimity.vc, aakash.sood@equanimity.vc)-done
+~~eximius ventures (uttkarsh@eximiusvc.com, keshav@eximiusvc.com, preeti@eximiusvc.com). -done~~
+gemba capital (govind@gembacapital.in, shashank@gembacapital.in)-done
+~~huddle ventures (rishiraj@huddleventures.vc, ishaan@huddleventures.vc, sanil@huddleventures.vc). - done~~
+IAN group (kush@iangroup.vc, kaustubh@iangroup.vc)
+ITI growth opportunities (pc@itigo.in [pratham], mk@itigo.in [meet])
